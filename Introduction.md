@@ -26,7 +26,3 @@ Si vous ne connaissez pas JavaScript mais que vous souhaitez en savoir plus, voi
 [Apprenez à programmer avec JavaScript](https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript)
 
 Faites votre choix, apprenez du JavaScript, et une fois que vous vous sentez suffisamment en confiance pour créer un bot, revenez et lancez-vous !
-
-[Installer Node.js et discord.js]("https://github.com/HalymaCorp/Learn-Discord.js/blob/main/Cours/Installer%20Node%20js%20et%20discord%20js.md")
-
-[Mise en place d’une application bot](https://github.com/HalymaCorp/Learn-Discord.js/blob/main/Cours/Mise%20en%20place%20d’une%20application%20bot%20.md)
