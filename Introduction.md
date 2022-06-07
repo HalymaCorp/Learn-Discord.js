@@ -27,6 +27,6 @@ Si vous ne connaissez pas JavaScript mais que vous souhaitez en savoir plus, voi
 
 Faites votre choix, apprenez du JavaScript, et une fois que vous vous sentez suffisamment en confiance pour créer un bot, revenez et lancez-vous !
 
-[Installer Node.js et discord.js]("Cours/Installer Node js et discord js.md")
+[Installer Node.js et discord.js]("https://github.com/HalymaCorp/Learn-Discord.js/blob/main/Cours/Installer%20Node%20js%20et%20discord%20js.md")
 
-[Mise en place d’une application bot](Cours%20Discord%20JS%2003ecf82600a547fd8bf5a00a6a4c5454/Mise%20en%20place%20d%E2%80%99une%20application%20bot%2007431bb5076d45d0a104d7af6cefdec9.md)
+[Mise en place d’une application bot](https://github.com/HalymaCorp/Learn-Discord.js/blob/main/Cours/Mise%20en%20place%20d’une%20application%20bot%20.md)
